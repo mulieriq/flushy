@@ -1,4 +1,3 @@
-
 /*
 Author : Eric Muli
 Github : github.com/EricRootLee
@@ -14,10 +13,6 @@ import 'package:intro_views_flutter/intro_views_flutter.dart';
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:gradient_widgets/gradient_widgets.dart';
-
-/// This is the main method of app, from here execution starts.
-
-/// App widget class
 
 class Intro extends StatelessWidget {
   //making list of pages needed to pass in IntroViewsFlutter constructor.
