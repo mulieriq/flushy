@@ -1,7 +1,7 @@
 /*
 Author : Eric Muli
 Github : github.com/EricRootLee
-Page Title : Handling Rest Api From Local DATABASE
+Page Title : Items Details
 Platform : Mobile
 Target : Android And IoS
 Technology : Flutter
