@@ -1,7 +1,7 @@
 /*
 Author : Eric Muli
 Github : github.com/EricRootLee
-Page Title : Delivery Adress Section
+Page Title : Delivery Address Section
 Platform : Mobile
 Target : Android And IoS
 Technology : Flutter

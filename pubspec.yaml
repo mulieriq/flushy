@@ -21,6 +21,15 @@ dependencies:
   gradient_widgets:
   flip_card:  
   intro_views_flutter: ^2.4.0
+  local_notifications:
+  flutter_cache_manager:
+  image_downloader:
+  sqflite:
+  stripe_payment:
+  multi_image_picker:
+  google_maps_flutter:
+  camera:
+  contacts_service:
   dynamic_theme:
   flutter:
     sdk: flutter
