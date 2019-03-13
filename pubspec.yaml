@@ -30,6 +30,14 @@ dependencies:
   google_maps_flutter:
   camera:
   contacts_service:
+  flutter_slidable:
+  fluttertoast:
+  url_launcher:
+  animated_background:
+  hidden_drawer_menu:
+  photo_view:
+  curved_navigation_bar:
+  local_auth:
   dynamic_theme:
   flutter:
     sdk: flutter
