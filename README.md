@@ -1,5 +1,7 @@
 # flushy
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e06e0fb7038549e680044eff8da53666)](https://app.codacy.com/manual/EricRootLee/flushy?utm_source=github.com&utm_medium=referral&utm_content=EricRootLee/flushy&utm_campaign=Badge_Grade_Dashboard)
+
 A new Flutter project.
 
 ## Getting Started
